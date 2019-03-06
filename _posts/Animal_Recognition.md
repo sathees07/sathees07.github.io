@@ -7,7 +7,7 @@ tags: [Machine Learning, Tensorflow]
 comments: false
 ---
 
-#INTRODUCTION
+## INTRODUCTION
 
 * The purpose of this tutorial is to explain how to train your own convolutional neural network object detection classifier for multiple objects, starting from scratch. At the end of this tutorial, you will have a program that can identify and draw boxes around specific objects in pictures, videos, or in a webcam feed.
 
